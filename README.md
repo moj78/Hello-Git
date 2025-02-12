@@ -1,6 +1,6 @@
 # Hello-Git
 This a test repository for hand-on with github
 <br>
-Adding this line to feature1 branch
+This line is from main branch
 <br>
 Author : Manoj Choudhary
